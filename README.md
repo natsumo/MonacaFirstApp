@@ -1,5 +1,5 @@
 # 【Monaca問題集】<br>オンラインランキング機能を作ってみよう！<br>「連打ゲーム」
-_2017/05/17作成_
+_2017/05/17作成 (2017/05/18修正)_
 
 ![RendaGame](/readme-img/RendaGame.png)
 
@@ -24,7 +24,7 @@ GitHub<br>
 * Monaca（ハイブリットアプリ開発環境）を使用してアプリを作成します<br>https://ja.monaca.io/
  * アカウントをお持ちでない場合は会員登録（無料）が必要です。
 * ブラウザ環境にInternet Explorerは使用できません
- * Google Chromes（推奨）をご使用ください。
+ * Google Chrome（推奨）をご使用ください。
 
 <div style="page-break-before:always"></div>
 
@@ -122,7 +122,7 @@ GitHub<br>
 
 * 名前を入力し、「OK」をクリックすると【問題１】で作成した`saveScore`メソッドが呼ばれ、データが保存されます
 * このとき下記のいずれかのログが出力されます
- * 保存成功時：「`保存に成功しました。objectId:*********`」
+ * 保存成功時：「`保存に成功しました。`」
  * 保存失敗時：「`保存に失敗しました。エラー:************`」
 
 <div style="page-break-before:always"></div>
