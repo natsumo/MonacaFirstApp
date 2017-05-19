@@ -1,12 +1,12 @@
 # 【Monaca問題集】<br>オンラインランキング機能を作ってみよう！<br>「連打ゲーム」
-_2017/05/17作成 (2017/05/18修正)_
+_2017/05/17作成 (2017/05/19修正)_
 
 ![RendaGame](/readme-img/RendaGame.png)
 
 * Monacaデバッガー使用時(iPhone6)の画面例です
 
 GitHub<br>
-**https://github.com/natsumo/MonacaFirstApp**
+**https://goo.gl/74KOyO**
 
 <div style="page-break-before:always"></div>
 
